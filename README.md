@@ -1,5 +1,9 @@
 # rubic_cube_simulator
 
+## Content
+![rubic](https://user-images.githubusercontent.com/53333096/115585844-f4601180-a306-11eb-961e-c848dac0478d.gif)
+
+
 ## Run
 ```
 $ git clone git@github.com:Yutarotaro/rubic_cube_simulator.git
