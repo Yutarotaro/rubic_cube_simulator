@@ -1,7 +1,7 @@
 # rubic_cube_simulator
 
 ## Content
-![rubic](https://user-images.githubusercontent.com/53333096/115585844-f4601180-a306-11eb-961e-c848dac0478d.gif)
+<img src="https://user-images.githubusercontent.com/53333096/115585844-f4601180-a306-11eb-961e-c848dac0478d.gif" width=300>
 
 
 ## Run
