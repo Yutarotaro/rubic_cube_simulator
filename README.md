@@ -1,4 +1,4 @@
-# rubic_cube_simulator
+# rubic_cube_simulator(未完成版)
 
 ## Content
 <img src="https://user-images.githubusercontent.com/53333096/115585844-f4601180-a306-11eb-961e-c848dac0478d.gif" width=300>
@@ -13,6 +13,8 @@ $ cmake ..
 $ make main -j4
 $ ./main
 ```
+
+
 
 ## How
 C++, OpenGL
