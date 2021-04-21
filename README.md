@@ -1,6 +1,6 @@
 # rubic_cube_simulator
 
-# Run
+## Run
 ```
 $ git clone git@github.com:Yutarotaro/rubic_cube_simulator.git
 $ cd rubic_cube_simulator
